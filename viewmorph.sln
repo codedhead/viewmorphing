@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "viewmorph", "viewmorph.vcproj", "{A54B18F5-2D20-4F84-B487-5589CB9A3827}"
+EndProject
+Global
+	GlobalSection(IntelOptPkgProperties) = preSolution
+		LoadPackage = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54B18F5-2D20-4F84-B487-5589CB9A3827}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A54B18F5-2D20-4F84-B487-5589CB9A3827}.Debug|Win32.Build.0 = Debug|Win32
+		{A54B18F5-2D20-4F84-B487-5589CB9A3827}.Release|Win32.ActiveCfg = Release|Win32
+		{A54B18F5-2D20-4F84-B487-5589CB9A3827}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
